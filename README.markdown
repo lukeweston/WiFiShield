@@ -6,8 +6,7 @@ so that the 50-ohm coplanar waveguide has an impedence in the right ballpark.
    
 Preview image:   
   
-![](https://github.com/lukeweston/WiFiShield/raw/master/WiFiShield-preview.png)
+![](https://github.com/lukeweston/WiFiShield/raw/master/WiFiShield-pcb.png)
 
 Readme to be done later.
-
 
